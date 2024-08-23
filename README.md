@@ -38,23 +38,9 @@ Welcome to the **Fashion Recommender** project! This repository showcases an inn
 - **Image Resolution**: Improved image clarity by resizing to higher resolution.
 - **Model Overfitting**: Controlled by monitoring validation metrics.
 
-## 💡 **Future Enhancements**
-- **Model Improvement**: Explore more advanced architectures and transfer learning.
-- **Hyperparameter Tuning**: Experiment with different learning rates, batch sizes, and more.
-- **Data Augmentation**: Incorporate techniques like rotation, flipping, and scaling to improve generalization.
-
 ## 📝 **Conclusion**
 This project successfully demonstrates the application of deep learning to fashion recommendation. The system effectively categorizes facial images and suggests appropriate outfits, showcasing a powerful blend of technology and style.
 
-## 📂 **Repository Structure**
-- `notebooks/`: Contains Jupyter notebooks with the complete workflow.
-- `datasets/`: Placeholder for the CelebA and Fashion MNIST datasets.
-- `models/`: Saved models after training.
-- `README.md`: This file.
 
-## 📧 **Contact**
-For any inquiries, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
-
----
 
 **Happy Coding!** ✨
