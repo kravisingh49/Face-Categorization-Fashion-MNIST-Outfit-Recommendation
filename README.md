@@ -30,7 +30,7 @@ In this project, we aim to:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
    ```bash
-   git clone [<repository-url>](https://github.com/kravisingh49/Face-Categorization-Fashion-MNIST-Outfit-Recommendation.git)
+   git clone https://github.com/kravisingh49/Face-Categorization-Fashion-MNIST-Outfit-Recommendation.git
    ```
 
 2. **Install Dependencies**: Ensure you have all the necessary Python packages installed. You can use the following command to install the required packages:
