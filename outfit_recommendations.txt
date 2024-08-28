@@ -1,0 +1,10 @@
+Image: 015253.jpg, Category: Coat, Recommended Outfit: Coat
+Image: 015868.jpg, Category: T-shirt/top, Recommended Outfit: T-shirt/top
+Image: 150494.jpg, Category: Sneaker, Recommended Outfit: Sneaker
+Image: 029637.jpg, Category: T-shirt/top, Recommended Outfit: T-shirt/top
+Image: 060436.jpg, Category: Pullover, Recommended Outfit: Pullover
+Image: 082315.jpg, Category: Sneaker, Recommended Outfit: Sneaker
+Image: 174165.jpg, Category: Pullover, Recommended Outfit: Pullover
+Image: 131197.jpg, Category: T-shirt/top, Recommended Outfit: T-shirt/top
+Image: 086063.jpg, Category: T-shirt/top, Recommended Outfit: T-shirt/top
+Image: 176513.jpg, Category: Coat, Recommended Outfit: Coat
