@@ -30,7 +30,7 @@ In this project, we aim to:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/kravisingh49/Face-Categorization-Fashion-MNIST-Outfit-Recommendation.git)
    ```
 
 2. **Install Dependencies**: Ensure you have all the necessary Python packages installed. You can use the following command to install the required packages:
@@ -38,9 +38,9 @@ In this project, we aim to:
    pip install -r requirements.txt
    ```
 
-3. **Run the Jupyter Notebook**: Open the `Untitled4.ipynb` notebook in Jupyter and run the cells step by step to see the magic happen!
+3. **Run the Jupyter Notebook**: Open the `Face Categorization & Fashion MNIST Outfit Recommendation.ipynb` notebook in Jupyter and run the cells step by step to see the magic happen!
    ```bash
-   jupyter notebook Untitled4.ipynb
+   jupyter notebook Face Categorization & Fashion MNIST Outfit Recommendation.ipynb
    ```
 
 4. **Explore the Results**: The notebook will generate a series of visualizations and an output text file with the recommendations.
